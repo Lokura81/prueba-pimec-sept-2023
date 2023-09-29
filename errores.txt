@@ -1,5 +1,7 @@
 Error 1:
-
+El primer error que jo he trobat a estat q estaba com id i era una class #navigation__link .navigation__link
 Error 2:
-
+a la class .navigation faltaba justify-content: space-between;
 Error 3: 
+faltaba el a:hover i no feia el canvi de color de fondo ni de lletra al passar el ratoli per sobre
+## bonus realitzat
